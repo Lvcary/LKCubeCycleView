@@ -1,0 +1,5 @@
+# LKCubeCycleView
+立体轮播图
+使用CATransform3D和CATransition分别实现无限滚动立体轮播图
+
+CATransform3D实现起来比较复杂，CATransition实现起来简单
